@@ -1,0 +1,16 @@
+# environment and build output
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# your own data: campaign, homebrew, maps, custom chunks, voice notes (kept on this PC only)
+campaign.json
+brewery.json
+forge_chunks.json
+maps/
+forge_assets/
+voice/
+*.tmp
